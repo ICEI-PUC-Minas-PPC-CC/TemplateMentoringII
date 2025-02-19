@@ -1,8 +1,8 @@
-# IA NAS ESCOLAS
+# TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`2025 - Semestre 01`
+`20XX - Semestre XX`
 
 ## Integrantes
 
