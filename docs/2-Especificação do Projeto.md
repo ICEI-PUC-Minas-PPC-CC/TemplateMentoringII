@@ -26,6 +26,7 @@ Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia 
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
 
 Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+https://thispersondoesnotexist.com/
 
 ## Histórias de Usuários
 
