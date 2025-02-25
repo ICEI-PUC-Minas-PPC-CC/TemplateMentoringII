@@ -1,8 +1,11 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Texto **descritivo** com a _visão geral do projeto abordado_._ Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. **Vou escrevendo aquilo que me interessa!!**
 
 ## Problema
+
+### Teste 
+
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
 O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
